@@ -50,3 +50,6 @@ After downloading the example font and "rfm9x-raspberry-pi-setup.py", was able t
 The next need is to get the Zero W development sandbox working: https://raspberrypi.stackexchange.com/questions/36398/development-on-raspberry-pi
 
 Not sure if I'll use sshfs or NFS, will probably ask Joe for some advice on that.
+-> Samba was recommended. And actually, while I do need to do that, I plan to get an SQL server up and running as my first Zero W task.
+
+Very quick, straightforward guide to SQL on the R Pi Zero: https://dbakevlar.com/2016/03/adding-a-database-to-the-raspberry-pi-zero/
